@@ -1,4 +1,4 @@
-# Laravel onUbuntu
+# Laravel on Ubuntu
 
 install Laravel on ubuntu
 
